@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modulos - Luhmann</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+        header { background: #2c3e50; color: white; padding: 40px 20px; text-align: center; }
+        header h1 { font-size: 2.5em; margin-bottom: 10px; }
+        nav { background: #34495e; padding: 15px; text-align: center; }
+        nav a { color: white; text-decoration: none; margin: 0 15px; font-size: 1.1em; }
+        nav a:hover { text-decoration: underline; }
+        .container { max-width: 1100px; margin: 0 auto; padding: 30px 20px; }
+        .module-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px; }
+        .module { background: linear-gradient(135deg, #3498db, #2980b9); color: white; border-radius: 12px; padding: 30px; text-align: center; transition: transform 0.3s; }
+        .module:hover { transform: translateY(-5px); }
+        .module .num { font-size: 3em; font-weight: bold; opacity: 0.3; }
+        .module h3 { font-size: 1.4em; margin: 10px 0; }
+        .module p { opacity: 0.9; }
+        .desc-section { margin-top: 50px; }
+        .desc-section h2 { color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px; margin-bottom: 20px; }
+        .mod-detail { background: #f9f9f9; border-radius: 8px; padding: 25px; margin: 20px 0; border-left: 4px solid #3498db; }
+        footer { background: #2c3e50; color: white; text-align: center; padding: 20px; margin-top: 40px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Modulos de Estudo</h1>
+        <p>Teoria dos Sistemas de Niklas Luhmann</p>
+    </header>
+    <nav>
+        <a href="../index.html">Inicio</a>
+        <a href="../conceitos/">Conceitos</a>
+        <a href="index.html">Modulos</a>
+        <a href="../aplicacoes/">Aplicacoes</a>
+        <a href="../recursos/">Recursos</a>
+    </nav>
+    <div class="container">
+        <div class="module-list">
+            <div class="module">
+                <div class="num">1</div>
+                <h3>Introducao</h3>
+                <p>Apresentacao geral da teoria dos sistemas sociais</p>
+            </div>
+            <div class="module">
+                <div class="num">2</div>
+                <h3>Conceitos Basicos</h3>
+                <p>Autopoiese, comunicacao e diferenca sistemica</p>
+            </div>
+            <div class="module">
+                <div class="num">3</div>
+                <h3>Sistemas Sociais</h3>
+                <p>Estrutura, funcionamento e diferenciacao</p>
+            </div>
+            <div class="module">
+                <div class="num">4</div>
+                <h3>Aplicacoes</h3>
+                <p>Aplicacoes praticas na Educacao e organizacoes</p>
+            </div>
+        </div>
+        <div class="desc-section">
+            <h2>Detalhes dos Modulos</h2>
+            <div class="mod-detail">
+                <h3>Modulo 1: Introducao à Teoria dos Sistemas</h3>
+                <p>Este modulo apresenta o contexto historico de Niklas Luhmann (1927-1998), suas principais influencias e a evolucao de seu pensamento. Explore os fundamentos da teoria dos sistemas aplicada as ciencias sociais e como ela se diferencia das abordagens tradicionais da sociologia.</p>
+            </div>
+            <div class="mod-detail">
+                <h3>Modulo 2: Conceitos Basicos</h3>
+                <p>Aprofunde-se nos conceitos centrais da teoria luhmanniana: autopoiese (auto-producao), a nature da comunicacao como elemento constitutivo dos sistemas sociais, a diferenca sistema/ambiente, e o papel da complexidade na organizacao social.</p>
+            </div>
+            <div class="mod-detail">
+                <h3>Modulo 3: Sistemas Sociais</h3>
+                <p>Estude como os sistemas sociais se organizam, se diferenciam e se mantem atraves do tempo. Explore os codigos binarios de cada subsistema (direito, economia, politica, ciencia, educacao) e como eles operam de maneira fechada mas interdependente.</p>
+            </div>
+            <div class="mod-detail">
+                <h3>Modulo 4: Aplicacoes Praticas</h3>
+                <p>Veja como a teoria dos sistemas de Luhmann pode ser aplicada para analisar organizacoes, processos educacionais, sistema juridico e outras areas da sociedade contemporanea. Estudos de caso e exemplos praticos para conectar teoria e realidade.</p>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>Teoria dos Sistemas de Niklas Luhmann | Projeto Educacional</p>
+        <p>Desenvolvido por Academia Pedagogica RGB</p>
+    </footer>
+</body>
+</html>
