@@ -1,100 +1,74 @@
-# Academia Pedagogica
-
+# Academia Pedagógica
 ### Plataforma Educacional em Filosofia, Sociologia e Teoria dos Sistemas
-
-**Por Felipe de Luca** | Professor de Filosofia e Gestor Pedagogico
-
+**Por Felipe de Luca** | Professor de Filosofia e Gestor Pedagógico
 ---
-
-## Sobre a Academia Pedagogica
-
-A **Academia Pedagogica** e uma plataforma educacional independente que integra tres eixos fundamentais do conhecimento humano:
+## Sobre a Academia Pedagógica
+A **Academia Pedagógica** é uma plataforma educacional independente que integra três eixos fundamentais do conhecimento humano:
 
 | Eixo | Abordagem |
 |------|----------|
-| **Filosofia** | Historia da filosofia, etica, politica, epistemologia e filosofia da educacao |
-| **Sociologia** | Estructura social, cultura, poder, desigualdade e transformacao social |
-| **Teoria dos Sistemas** | Pensamento sistemico aplicado a educacao, organizacoes e sociedade |
+| **Filosofia** | História da filosofia, ética, política, epistemologia e filosofia da educação |
+| **Sociologia** | Estrutura social, cultura, poder, desigualdade e transformação social |
+| **Teoria dos Sistemas** | Pensamento sistêmico aplicado à educação, organizações e sociedade |
 
-O objetivo e construir pontes conceituais entre essas areas, mostrando como o pensamento filosofico, a analise sociologica e a visao sistemica se entrelacam para uma compreensao mais profunda da realidade social e educacional.
-
+O objetivo é construir pontes conceituais entre essas áreas, mostrando como o pensamento filosófico, a análise sociológica e a visão sistêmica se entrelaçam para uma compreensão mais profunda da realidade social e educacional.
 ---
-
 ## Eixo I - Filosofia
-
 ### Temas Principais
-- Historia da Filosofia: de Tales a Nietzsche
-- Etica e Moral: fundamentos e aplicacoes
-- Filosofia Politica: Estado, poder e justica
+- História da Filosofia: de Tales a Nietzsche
+- Ética e Moral: fundamentos e aplicações
+- Filosofia Política: Estado, poder e justiça
 - Epistemologia: como conhecemos o mundo
-- Filosofia da Educacao: o papel da escola e do professor
-- Logica e Argumentacao: ferramentas para o pensamento critico
-
+- Filosofia da Educação: o papel da escola e do professor
+- Lógica e Argumentação: ferramentas para o pensamento crítico
 ### Produtos
-- Textos didaticos por tema
+- Textos didáticos por tema
 - Mapas conceituais
-- Sequencias didaticas para ensino medio
-- Analises de autores classicos
-
+- Sequências didáticas para ensino médio
+- Análises de autores clássicos
 ---
-
 ## Eixo II - Sociologia
-
 ### Temas Principais
 - Estrutura Social e Classes
 - Cultura, Identidade e Diversidade
 - Poder, Ideologia e Hegemonia
-- Educacao e Reproducao Social (Bourdieu)
-- Movimentos Sociais e Transformacao
-- Sociologia da Educacao
-- Teorias Sociologicas Classicas e Contemporaneas
-
+- Educação e Reprodução Social (Bourdieu)
+- Movimentos Sociais e Transformação
+- Sociologia da Educação
+- Teorias Sociológicas Clássicas e Contemporâneas
 ### Produtos
-- Resumos de teorias sociologicas
-- Analises de fenomenos sociais brasileiros
+- Resumos de teorias sociológicas
+- Análises de fenômenos sociais brasileiros
 - Fichamentos de autores
 - Atividades para sala de aula
-
 ---
-
 ## Eixo III - Teoria dos Sistemas
-
 ### Temas Principais
-- O que e um Sistema: elementos, interacoes e ambiente
-- Pensamento Sistemico vs. Pensamento Linear
-- Sistemas Complexos e Emergencia
-- Ciberneticas e Retroalimentacao
-- Teoria dos Sistemas Aplicada a Educacao
+- O que é um Sistema: elementos, interações e ambiente
+- Pensamento Sistêmico vs. Pensamento Linear
+- Sistemas Complexos e Emergência
+- Cibernéticas e Retroalimentação
+- Teoria dos Sistemas Aplicada à Educação
 - Ecologia dos Saberes (Boaventura de Sousa Santos)
 - Sistemas Sociais (Luhmann)
-
 ### Produtos
 - Diagramas de sistemas educativos
 - Estudos de caso
-- Aplicacoes praticas para gestao pedagogica
-- Composicoes entre Teoria dos Sistemas e Filosofia/Sociologia
-
+- Aplicações práticas para gestão pedagógica
+- Composições entre Teoria dos Sistemas e Filosofia/Sociologia
 ---
-
-## Repositorios da Plataforma
-
-| Repositorio | Descricao | Licenca |
+## Repositórios da Plataforma
+| Repositório | Descrição | Licença |
 |-------------|-----------|--------|
 | [filosofia-conteudos](https://github.com/acadiapedagogica-rgb/filosofia-conteudos) | Materiais, textos e planos de aula de Filosofia | CC BY-SA |
 | [sociologia-conteudos](https://github.com/acadiapedagogica-rgb/sociologia-conteudos) | Conceitos, fichamentos e recursos de Sociologia | CC BY-SA |
-| [teoria-de-sistemas](https://github.com/acadiapedagogica-rgb/teoria-de-sistemas) | Fundamentos e aplicacoes da Teoria dos Sistemas | CC BY-SA |
-| [recursos-pedagogicos](https://github.com/acadiapedagogica-rgb/recursos-pedagogicos) | Instrumentos de apoio a pratica docente | CC BY-SA |
-
+| [teoria-de-sistemas](https://github.com/acadiapedagogica-rgb/teoria-de-sistemas) | Fundamentos e aplicações da Teoria dos Sistemas | CC BY-SA |
+| [recursos-pedagogicos](https://github.com/acadiapedagogica-rgb/recursos-pedagogicos) | Instrumentos de apoio à prática docente | CC BY-SA |
 ---
-
 ## Sobre o Autor
+**Felipe de Luca** é licenciado em Filosofia, professor da rede pública e gestor pedagógico. Desenvolve materiais didáticos integrando Filosofia, Sociologia e Pensamento Sistêmico com foco em educação crítica e transformadora. Localizado em Pindamonhangaba, São Paulo, Brasil.
 
-**Felipe de Luca** e licenciado em Filosofia, professor da rede publica e gestor pedagogico. Desenvolve materiais didaticos integrando Filosofia, Sociologia e Pensamento Sistemico com foco em educacao critica e transformadora. Localizado em Pindamonhangaba, Sao Paulo, Brasil.
-
-Licenca de todos os conteudos: **CC BY-SA 4.0** (Creative Commons Attribution-ShareAlike)
-
+Licença de todos os conteúdos: **CC BY-SA 4.0** (Creative Commons Attribution-ShareAlike)
 ---
 
-<p align="center">
-  <em>"Sapere Aude!" - Immanuel Kant</em>
-</p>
+_"Sapere Aude!" - Immanuel Kant_
